@@ -21,6 +21,7 @@
 | Γενική: τιμές (από τιμολόγιο 30/10) | 2,00 € χωρίς ΑΜ · 2,40 € με ΑΜ · ΔΠ +1,90 € (4,30 €) · επίναυλος 4,13% | CSV τιμολογίου |
 | BOX NOW: τιμές | ίδιες με DogCare: S 1,60 · M 1,70 · L 2,50 € καθαρά | Σπήλιος |
 | Εφαρμογή κοπής voucher | AfterSalesPro (μελλοντικά Navigator Pro) | Σπήλιος |
+| Elorus API | https://api.elorus.com/v1.1, στοιχεία στο πρόχειρο [CONFIG] ELORUS API· σειρά Autoguard «Β» (sequence 3667904011673011259)· κοινός λογαριασμός με DogCare (σειρά «Α», αγνοείται)· μόνο ανάγνωση | συνδέθηκε 12/11 |
 | AfterSalesPro API | https://northapi.com/api/3.0/shipment, Bearer κλειδί στο πρόχειρο [CONFIG] AFTERSALES API· Autoguard integrationUuid 9c76296e-…· το ίδιο κλειδί φέρνει και DogCare (αγνοείται)· μόνο ανάγνωση | συνδέθηκε 12/11 |
 | Τράπεζα | Alpha Bank (εκεί αποδίδει η Γενική Πύργου) | Σπήλιος, email cod |
 | Λογιστής | δεν το γνωρίζω | |
