@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Shopify",
+      "mcp__Meta_Ads",
+      "mcp__Lebesgue",
+      "mcp__Google_Drive",
+      "WebSearch",
+      "WebFetch",
+      "Bash"
+    ]
+  }
+}
